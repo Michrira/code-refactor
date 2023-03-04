@@ -28,4 +28,10 @@ N/A
 
 ## Screenshots 
 
-This is how the webpage should look
+This is how the webpage should look when being viewed. 
+
+![Screenshot 2023-03-03 161613](https://user-images.githubusercontent.com/126362926/222863215-cdf3c86d-9cdc-410b-a163-1ad1f2212093.png)
+
+
+![Screenshot 2023-03-03 161708](https://user-images.githubusercontent.com/126362926/222863211-310d0f5b-5387-4bca-907e-0ceb9c0d8dee.png)
+
