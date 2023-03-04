@@ -25,3 +25,7 @@ My discord study group
 ## License
 
 N/A
+
+## Screenshots 
+
+This is how the webpage should look
