@@ -38,3 +38,6 @@ This is how the webpage should look when being viewed.
 
 ## Deployed area link:
 
+https://michrira.github.io/code-refactor/
+
+https://github.com/Michrira/code-refactor.git
