@@ -35,3 +35,6 @@ This is how the webpage should look when being viewed.
 
 ![Screenshot 2023-03-03 161708](https://user-images.githubusercontent.com/126362926/222863211-310d0f5b-5387-4bca-907e-0ceb9c0d8dee.png)
 
+
+## Deployed area link:
+
